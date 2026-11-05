@@ -13,7 +13,7 @@
 ## ✦ Sobre mí
 
 > Estudiante de décimo ciclo de **Ingeniería de Sistemas e Informática** (Universidad Continental).
-> Apoyo en el área de **Registros Académicos** y me interesan el desarrollo de software, las bases de datos y la innovación tecnológica.
+> Apoye en el área de **Registros Académicos** y me interesan el desarrollo de software, las bases de datos y la innovación tecnológica.
 > Me adapto con rapidez a nuevas tecnologías, procesos y tareas.
 
 <br>
