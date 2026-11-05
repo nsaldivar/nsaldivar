@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="banner.svg" alt="Nahun Jose Saldivar Zamora" width="100%">
+  <img src="banner-2.svg" alt="Nahun Jose Saldivar Zamora" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nahun-jose-saldivar-zamora-0b8509346/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/nahunsaldivar/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"></a>
   <a href="mailto:nahun987654321@gmail.com"><img src="https://img.shields.io/badge/Correo-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Correo"></a>
   <a href="https://github.com/nsaldivar?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Repositorios"></a>
 </p>
@@ -103,7 +103,7 @@
 
 ## ✦ Contacto
 
-¿Prácticas, proyectos o colaboración? Escríbeme a **nahun987654321@gmail.com** o por [LinkedIn](https://www.linkedin.com/in/nahun-jose-saldivar-zamora-0b8509346/).
+¿Prácticas, proyectos o colaboración? Escríbeme a **nahun987654321@gmail.com** o por [LinkedIn](https://www.linkedin.com/in/nahunsaldivar/).
 
 <br>
 
