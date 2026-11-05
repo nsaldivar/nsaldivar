@@ -12,9 +12,9 @@
 
 ## ✦ Sobre mí
 
-> Estudiante de décimo ciclo de **Ingeniería de Sistemas e Informática** (Universidad Continental).
-> Apoye en el área de **Registros Académicos** y me interesan el desarrollo de software, las bases de datos y la innovación tecnológica.
-> Me adapto con rapidez a nuevas tecnologías, procesos y tareas.
+> Estudiante de décimo ciclo de **Ingeniería de Sistemas e Informática** con sólida formación en análisis de sistemas, bases de datos (SQL Server intermedio) y desarrollo de software.
+> Experiencia en optimización de procesos administrativos, automatización y gestión documental en el sector público y universitario.
+> Capacidad analítica para traducir requerimientos en soluciones tecnológicas eficientes, con rápida adaptación a nuevas tecnologías, procesos y tareas, trabajo en equipo y enfoque en la mejora continua.
 
 <br>
 
