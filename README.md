@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-2.svg" alt="Nahun Jose Saldivar Zamora" width="100%">
+  <img src="banner.svg" alt="Nahun Jose Saldivar Zamora" width="100%">
 </p>
 
 <p align="center">
